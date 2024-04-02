@@ -56,7 +56,7 @@ To run the project locally, follow these steps:
 
 ## GitHub Pages 🔗
 
-The MenuDesign project is hosted on GitHub Pages. You can access it [here](#).
+The MenuDesign project is hosted on GitHub Pages. You can access it [here](https://660c4a6d721219082a2cc51b--menudesignvirtual.netlify.app/).
 
 ## Contribution 🌟
 
